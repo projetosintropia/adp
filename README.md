@@ -5,7 +5,7 @@ Olá a todos,
 Meu nome é André Caregnato sou programdor inniciante e sou o desenvolvedor do ADP, um assistente de programação de uso geral que em breve deve incorporar elementos de Inteligência Artificial.
 Ainda estou depurando alguns bugs e por isso ele ainda não está funcional, mas em breve deverá estar.
 
-O ADP é um aplicativo que ajuda os programadores a aprenderem e aperfeiçoarem suas habilidades. Ele fornece acesso a uma ampla gama de recursos, incluindo:
+O ADP é um aplicativo que ajudará os programadores a aprenderem e aperfeiçoarem suas habilidades. Ele fornece acesso a uma ampla gama de recursos, incluindo:
 
 Tutoriais: Aprenda conceitos básicos e avançados de programação com tutoriais passo a passo.
 Exercícios: Pratique suas habilidades com exercícios interativos.
