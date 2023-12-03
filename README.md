@@ -24,7 +24,7 @@ https://projetosintropia.netlify.app/adp
 
 
 Quem quiser dar uma ajuda será bem vindo:
-Telegram: t.me/andrecaregnato
+Telegram: https://t.me/andrecaregnato
 Twitter: https://twitter.com/andre_caregnato
 Facebook: www.facebook.com/andre.caregnato
 Instagram: https://www.instagram.com/andrecaregnato6/
