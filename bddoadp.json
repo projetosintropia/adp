@@ -1,0 +1,32 @@
+{
+    "funções_do_sistema": {
+        "definição": "As funções do sistema são as operações básicas que um sistema operacional pode realizar. Elas incluem operações como criar, abrir, fechar, ler e escrever arquivos, criar e gerenciar processos, gerenciar memória, gerenciar dispositivos de entrada e saída, e gerenciar a comunicação entre processos.",
+        "exemplos": [
+            "Criar um arquivo",
+            "Abrir um arquivo",
+            "Fechar um arquivo",
+            "Ler um arquivo",
+            "Escrever em um arquivo",
+            "Criar um processo",
+            "Gerenciar memória",
+            "Gerenciar dispositivos de entrada e saída",
+            "Gerenciar a comunicação entre processos"
+        ],
+        "tutoriais": [
+            {
+                "titulo": "Tutorial sobre funções do sistema",
+                "conteúdo": "Este tutorial apresenta uma introdução às funções do sistema. Ele discute os seguintes tópicos:
+
+* O que são funções do sistema?
+* Quais são os tipos de funções do sistema?
+* Como as funções do sistema são implementadas?
+
+Ao final deste tutorial, você será capaz de:
+
+* Definir funções do sistema
+* Classificar funções do sistema
+* Explicar como as funções do sistema são implementadas"
+            }
+        ]
+    }
+}
