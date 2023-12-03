@@ -29,6 +29,7 @@ Telegram: https://t.me/andrecaregnato
 Twitter: https://twitter.com/andre_caregnato
 Facebook: www.facebook.com/andre.caregnato
 Instagram: https://www.instagram.com/andrecaregnato6/
+<br>
 <b>Se você quiser contribuir fazendo uma doação [clique aqui](https://nubank.com.br/cobrar/121ebn/656cb060-44ee-4a9e-b9bd-529bb1b5b794)</b>
 
 
