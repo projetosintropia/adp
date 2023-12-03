@@ -21,7 +21,7 @@ André Caregnato
 
 Desenvolvedor do ADP
 
-https://projetosintropia.netlify.app/adp 
+[https://projetosintropia.netlify.app/adp ](https://github.com/projetosintropia/adp)
 
 
 Quem quiser dar uma ajuda será bem vindo:
@@ -29,6 +29,7 @@ Telegram: https://t.me/andrecaregnato
 Twitter: https://twitter.com/andre_caregnato
 Facebook: www.facebook.com/andre.caregnato
 Instagram: https://www.instagram.com/andrecaregnato6/
+<h3>Se você quiser contribuir fazendo uma doação, a chave pix é esta: https://nubank.com.br/cobrar/121ebn/656cb060-44ee-4a9e-b9bd-529bb1b5b794 </h3>
 
 
 ------------------------------------
